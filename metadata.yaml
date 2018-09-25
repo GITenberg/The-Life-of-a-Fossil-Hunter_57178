@@ -1,5 +1,5 @@
 _repo: The-Life-of-a-Fossil-Hunter_57178
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Osborn, Henry Fairfield
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '31561'
     url: http://www.gutenberg.org/2009/agents/31561
     wikipedia: http://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
+covers:
+- cover_type: archival
+  image_path: 57178-h/images/cover.jpg
 creator:
   author:
     agent_name: Sternberg, Charles H.
     gutenberg_agent_id: '49230'
     url: http://www.gutenberg.org/2009/agents/49230
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57178#The-Life-of-a-Fossil-Hunter
 gutenberg_issued: '2018-05-18'
 gutenberg_type: Text
 identifiers:
