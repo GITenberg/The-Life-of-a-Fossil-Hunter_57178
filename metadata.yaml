@@ -1,0 +1,29 @@
+_repo: The-Life-of-a-Fossil-Hunter_57178
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Osborn, Henry Fairfield
+    alias: Osborn, Henry F. (Henry Fairfield)
+    birthdate: 1857
+    deathdate: 1935
+    gutenberg_agent_id: '31561'
+    url: http://www.gutenberg.org/2009/agents/31561
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fairfield_Osborn
+creator:
+  author:
+    agent_name: Sternberg, Charles H.
+    gutenberg_agent_id: '49230'
+    url: http://www.gutenberg.org/2009/agents/49230
+description: ''
+gutenberg_issued: '2018-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Life of a Fossil Hunter
+url: http://www.gutenberg.org/ebooks/57178
